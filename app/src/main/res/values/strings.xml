@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">2nd Assessment - MyApp</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="go_to_signup">Go to Signup</string>
+
+</resources>
